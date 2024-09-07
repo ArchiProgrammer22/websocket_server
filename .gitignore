@@ -1,0 +1,38 @@
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CTestTestfile.cmake
+Makefile
+
+# Build directories
+build/
+Build/
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Compiled binary files
+*.exe
+*.out
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+
+# Logs and debugging files
+*.log
+*.tmp
+*.stackdump
+
+# Temporary files
+*~
+*.swp
+*.swo
+
+# Generated documentation
+/docs/html/
+docs/doxygen/
+
